@@ -2,7 +2,7 @@
 
 ### Olá 👋🏼
 
-Sou fundador da **eibii Developer|ERC Dev**
+Sou um **desenvolvedor** apaixonado pelo que faço
 
 - 🌱 Front-end, sou desenvolvedor web há dez anos, apaixonado por criar belas aplicações e landing pages
 - 👨🏻‍💻 Especialista em VueJs, estudando para me tornar especialista em React
