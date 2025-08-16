@@ -66,11 +66,10 @@ Faço interfaces rápidas, acessíveis e com alto padrão de código — e sim, 
 ---
 
 ## 📈 GitHub em números
-> Substitua `YOUR_GITHUB_USERNAME` pelo seu usuário antes de usar.
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent)
-![Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent)
+![Stats](https://github-readme-stats.vercel.app/api?username=eibii&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eibii&layout=compact&theme=transparent)
+![Streak](https://streak-stats.demolab.com?user=eibii&theme=transparent)
 
 ---
 
