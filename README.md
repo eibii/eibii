@@ -67,7 +67,6 @@ Faço interfaces rápidas, acessíveis e com alto padrão de código — e sim, 
 
 ## 📈 GitHub em números
 
-![Stats](https://github-readme-stats.vercel.app/api?username=eibii&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eibii&layout=compact&theme=transparent)
 ![Streak](https://streak-stats.demolab.com?user=eibii&theme=transparent)
 
