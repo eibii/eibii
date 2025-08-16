@@ -8,7 +8,7 @@ Sou um **desenvolvedor** apaixonado pelo que faço
 - 👨🏻‍💻 Especialista em VueJs, estudando para me tornar especialista em React
 
 <div> 
-  <a href = "https://ercdev.com.br" target="_blank"><img src="https://img.shields.io/badge/website-42D392?style=for-the-badge&logo=website&logoColor=black" target="_blank"></a>
+  <a href = "https://eibii.com" target="_blank"><img src="https://img.shields.io/badge/website-42D392?style=for-the-badge&logo=website&logoColor=black" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eduardo-rodrigues-da-cunha-b883a867/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
